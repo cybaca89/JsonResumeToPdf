@@ -1,0 +1,160 @@
+{
+    "basics": {
+        "name": "Jon Doe",
+        "label": "Programmer",
+        "picture": "",
+        "email": "jondoe@example.com",
+        "phone": "(555) 555-5555",
+        "website": "https://www.example.com",
+        "summary": "Jon Doehails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+        "location": {
+            "address": "9999 Broadway St.",
+            "postalCode": "CA 95926",
+            "city": "Chico",
+            "countryCode": "US",
+            "region": "California"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "cybaca89",
+                "url": "https://github.com/cybaca89"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "B Street",
+            "position": "Cook",
+            "website": "",
+            "startDate": "2015-04-01",
+            "endDate": "2015-10-01",
+            "summary": "Worked as a kitchen cook: opening the kitchen, doing morning preparation, and making food orders",
+            "highlights": []
+        },
+        {
+            "company": "Pluto's",
+            "position": "Cook",
+            "website": "",
+            "startDate": "2014-11-01",
+            "endDate": "2015-04-01",
+            "summary": "Took customer orders. Prepared salads, sandwiches and side dishes. Rang up customers.",
+            "highlights": []
+        },
+        {
+            "company": "Big Tuna Sushi Bistro",
+            "position": "Sushi Chef",
+            "website": "",
+            "startDate": "2011-03-01",
+            "endDate": "2014-10-01",
+            "summary": "Demonstrated teamwork with coworkers, strategizing and working together on an order to order basis to put out customer orders quickly and efficiently. Maintained conversations with customers sitting at the bar. Maintained sushi bar, keeping it organized, clean, and prepared. Kept track of inventory.",
+            "highlights": []
+        }
+    ],
+
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "CSU Chico",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2015-01-01",
+            "endDate": "2016-12-01",
+            "gpa": "2.8",
+            "courses": [
+                "Programming and Algorithms 2, 3",
+                "Intro to Databases",
+                "Algorithms and Data Structures",
+                "Intro to Computer Networks",
+                "Embedded Systems Development",
+                "Computer Security",
+                "Operating Systems",
+                "Compiler Design",
+                "Parallel Programming",
+                "Computer Graphics"
+            ]
+        },
+        {
+            "institution": "Butte College",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2014-08-01",
+            "endDate": "2015-12-01",
+            "gpa": "2.8",
+            "courses": [
+                "Programming and Algorithms 1"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Computer",
+            "level": "Advanced",
+            "keywords": [
+                "C/C++",
+                "Go",
+                "Java",
+                "HTML/CSS/JS",
+                "Python 2, 3",
+                "Bash"
+            ]
+        },
+        {
+            "name": "Social",
+            "level": "Advanced",
+            "keywords": [
+                "Teamwork",
+                "Leadership",
+                "Communication"
+            ]
+        },
+        {
+            "name": "Software",
+            "level": "Advanced",
+            "keywords": [
+                "Microsoft Word",
+                "Microsoft Excel",
+                "Microsoft PowerPoint"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Colloquial"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Technology",
+            "keywords": [
+                "PCs",
+                "Drones",
+                "Video games",
+                "Reddit, YouTube",
+                "YCombinator"
+            ]
+        },
+        {
+            "name": "Music",
+            "keywords": [
+                "Electronic",
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Food",
+            "keywords": [
+                "Seafood/Sushi",
+                "Burritos"
+            ]
+        }
+    ],
+    "references": []
+}
